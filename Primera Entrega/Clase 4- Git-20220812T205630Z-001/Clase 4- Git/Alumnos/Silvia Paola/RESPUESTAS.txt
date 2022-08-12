@@ -1,0 +1,9 @@
+Preguntas
+1) MOMENTO 1 PASO 8: ¿Qué paso con el directorio db?
+Respuesta: El commit no lo agrega a la rama porque es un directorio vacio. 
+2) MOMENTO 2 PASO 6: ¿Se guardo lo importante?
+No se guardo, porque porque no estaba Trackeado
+3) MOMENTO 4 PASO 1: ¿Esta bien el nombre del commit?
+No esta bien, porque no es explicito
+4) MOMENTO 5 PASO 3: ¿Qué hace este paso? Me restauro el archivo PRODUCTO_DB.JS
+5) MOMENTO 5 PASO 6: ¿Qué pasó acá? Fallo el commit porque ADD. estuvo mal ejecutado
