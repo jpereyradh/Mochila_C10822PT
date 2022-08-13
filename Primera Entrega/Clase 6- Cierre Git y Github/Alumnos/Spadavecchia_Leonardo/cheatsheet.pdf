@@ -1,0 +1,19 @@
+git init = crea un nuevo repositorio local
+git status = chequea el estado actual de nuestra rama(si hay archivos untracked, modificados, listo para commitear, etc)
+git add = añade nuestros archivos al staging area (ya se encuentran dentro del repositorio)
+git commit = guarda los cambios hechos con un hash autogenerado y unico
+
+git pull = trae los cambios hechos en nuestro repositorio remoto
+git push = envia los cambios de nuestro repositorio local al remoto
+
+git config --global user.name = deja registrado nuestro nombre de usuario de github para futuros proyectos
+git config --global user.email = deja registrado nuestro mail de github para futuros proyectos
+
+git clone origin main = clona e importa un working directory almacenado en la nube, en este caso en github.
+
+git branch = crea una nueva rama (abre linea temporal paralela) donde puedo trabajar sin generar cambios en nuestra rama principal
+git checkout = para movernos a otra rama
+
+git merge = traemos los cambios realizados en otra rama a la actual (puede haber conflictos que resolver)
+
+git log = vemos quien realizo los distintos commits (usuario, hora y fecha)
