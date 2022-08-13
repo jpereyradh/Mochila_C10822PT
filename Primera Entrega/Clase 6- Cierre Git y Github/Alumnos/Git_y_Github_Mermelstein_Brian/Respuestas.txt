@@ -1,0 +1,5 @@
+a) El creador del sistema de control de versiones de git es Linus Torvalds y lo creó
+ para poder manejar grandes proyectos con muchos participantes trabajando asincronicamente
+
+ b) Github pertenece a microsoft ya que fue quien lo compró
+ c) Se puede usar desde la interfaz web (más lenta)
