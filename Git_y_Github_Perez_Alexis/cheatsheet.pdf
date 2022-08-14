@@ -1,0 +1,42 @@
+Crear repositorio local
+$git init
+
+Configurar el nombre de usuario
+$git config user.name "nombre_usuario"
+
+Configurar el mail de usuario
+$git config user.email "email_usuario"
+
+Conectando nuestro repositorio local a GitHub
+$git remote add origin <URL de repo.git>
+
+
+Para chequear si estamos conectado al repo remoto
+$git remote -v
+
+Agregar todos los archivos
+$git add .
+
+Comitea los cambios hechos
+$git commit -m "mensaje"
+
+Envía los cambios al repositorio remoto
+$git push origin main
+
+Seguimiento del estado de los archivos
+$git status
+
+Para bajar un repositorio remoto
+$git clone <URL de repo.git>
+
+Descarga los cambios que existen en el repositorio remoto
+$git pull
+
+Crea una rama
+$git branch
+
+Crea una rama y vamos a dicha rama
+$git checkout -b "Nombre de la rama que queremos crear"
+
+Para cambiarnos de rama
+$git checkout "Nombre de la rama" 
