@@ -1,0 +1,11 @@
+a. ¿Quien invento el sistema de control de version Git y por que?
+El sistema Git fue creado por Linus Torvalds, asi tener la funcionalidad de revertir archivos y proyectos
+enteros a un estado anterior, comparar cambios a lo largo del tiempo, ver quién
+modificó por última vez algo que puede estar causando un problema, quién introdujo
+un error y cuándo, y mucho más.
+
+b. ¿A quien pertenece actualmente Github y por que?
+Actualmente Github pertence a Microsoft, al comprar Github en el año 2018
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Desconozco esta funcionalidad, al parecer si, es posible.
