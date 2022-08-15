@@ -1,0 +1,3 @@
+1. El sistema de control de versiones fue creado por Linus Torvalds con el fin de llevar registro de los cambios en archivos de computadora. A su vez, poder llevar un control de la coordinacion en el trabajo que varias personas realizan en simultáneo.
+2. Actualmente, GitHub pertenece a Microsoft. Este compró GitHub con el fin de demostrar su inclinación como empresa hacia el desarrollo, haciendo hincapié en que la empresa esta compuesta por desarrolladores.
+3. Ademas de la terminal, otra forma de trabajar en GitHub es a traves de la página web de GitHub.
