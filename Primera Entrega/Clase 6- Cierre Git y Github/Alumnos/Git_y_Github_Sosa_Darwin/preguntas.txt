@@ -1,0 +1,14 @@
+a. El creador de Git es Linus Torvalds. Su razón para crearlo fue
+con el propósito de tener un sistema descentralizado que le 
+permitiera trabajar a él y sus colaboradores en un mismo proyecto.
+
+b.Github en la actualidad le pertenece a Microsoft, la cual adquirió
+la empresa en 2018. Esto devido a que se querían acercar más a la 
+comunidad del software libre y abierto. Ademas de la publicidad que
+esto les brinda, esto les permite saber cuales son las necesidades
+de los desrrolladores, para de esta manera poder tomar esas carencias 
+y mejorar sus productos.
+
+c.Se puede trabajar con git desde la terminal y desde interfaces 
+gráficas. Tales como Github Desktop. Desde mi parte, en mi ambito
+laboral utilizo Git Extensions.
