@@ -1,0 +1,11 @@
+git init
+se utilizia para iniciar un repositorio
+git config.name: es el comando que se utiliza para adregar nuestro nombre
+git config.email: es el comando que se usa para agregar nuestro email
+git remote and origin main apunta al reposotorio remoto
+git add . agrega todos los archivos
+"git commit -m ""mensaje"" agrega todos los cambios realizados"
+git push origin main envia los cambios al repositorio remoto
+git status realiza un estado de los archivos
+git pull: descarga los cambios nuevos
+ git clone: se utiliza para clonar el repositorio remoto
