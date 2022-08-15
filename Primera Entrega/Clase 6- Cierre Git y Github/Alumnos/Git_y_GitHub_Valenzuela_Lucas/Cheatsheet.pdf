@@ -1,0 +1,16 @@
+Establecer el usuario y email
+git config user.name "nombre de usuario"
+git config user.email "email del usuario"
+
+Crear nuevo repositorio
+git init
+
+Verificar el estado de los archivos/directorios
+git status
+
+Añadir un archivo
+git add nombre_del_archivo
+git add .
+
+Comitear un archivo agregado
+git commit -m "descripcion del commit"
