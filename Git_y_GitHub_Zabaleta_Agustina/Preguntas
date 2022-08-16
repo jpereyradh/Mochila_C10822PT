@@ -1,0 +1,17 @@
+a-¿Quién inventó el sistema de control de versión Git y por qué?
+
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT. 2​Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena. ​Hay algunos proyectos de mucha relevancia que ya usan Git, en particular, el grupo de programación del núcleo Linux.
+
+Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil de usar y conservar sus características iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal
+
+b- ¿A quien pertenece actualmente Github y por qué?
+
+Microsoft adquirió GitHub el 4 de Junio de 2018 por 7.500 millones de dólares.
+La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más. Con ello en mente, ponen en relevancia las necesidades de los desarrolladores y el interés por parte de la compañía de mantener las cosas en apariencia igual que hasta el momento en su plataforma recién adquirida.
+
+c- ¿Hay otra forma que no sea la teminal para trabajar con GitHub?
+Si, desde el desktop existen botones que funcionan igual que los comandos, existe por ejemplo uno para clonar una branch, desde visual también podemos hacer commits sin comandos.
+uedes utilizar GitHub Desktop para completar la mayoría de los comandos de Git desde tu computadora de escritorio con confirmaciones visuales para los cambios. Puedes subir, extraer y clonar repositorios remotos con GitHub Desktop y utilizar herramientas colaborativas tales como atribuir confirmaciones y crear solicitudes de extracción.
+Fuente a revisar: https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
