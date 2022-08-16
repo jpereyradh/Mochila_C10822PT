@@ -1,0 +1,8 @@
+A- ¿Quién inventó el sistema de control de versión Git y por qué?
+Fue diseñado por Linus Torvalds para registrar, coordinar y trabajar archivos o aplicaciones que contienen un gran numero de archivos de codigo fuente
+
+B- ¿A quién pertenece actualmente GitHub y por qué?
+Ahora pertenece a Microsoft ya que lo compró por la cantidad de $7.500.000.000 millones de dólares
+
+c-¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+Hay aplicaciones que simplifican el uso de codigos, tan solo hacer click y lo suben, commitean,descargan, clonan etc. Sin embargo es vital saber utilizar codigo ya que no siempre estarán esas aplicaciones o en caso de alguna falla saber hacerlo manualmente
