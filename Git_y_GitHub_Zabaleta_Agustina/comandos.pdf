@@ -1,0 +1,45 @@
+pwd : para saber donde estoy 
+
+nano archivo1 :para escribir  ctr+o: para guardar ctr+x: para salir
+
+cat archivo1: muestra lo que hay en el block 
+
+find ar*: desde donde estoy busca coincidencias con ar
+
+ -i  (-i no distingue mayusculas y minusculas)
+
+cdm
+ls -R 
+ls -a : muestra carpetas cultas
+
+mv : mueve o renombra
+
+cat./"Carpeta2"/archivo2 : muestra lo que hay en esa ruta
+
+
+cp ./"Carpeta 2"/archivo2 : copia archivo 
+
+ctr+ c :corta el proceso
+
+mkdir :crea carpetas
+
+touch : crea archivos txt, pdf..
+
+git clone link : clona repo remoto
+
+cd: voy a la carpeta
+
+git chechout -b : creo rama y e posiciono en ella
+
+ git add . : subo a staged todos los archivos, git add . + archivo1 :subo solo ese archivo
+
+git commit -m "" subo y nombro
+
+git push origin + nombre de la rama a la que quiero subir el archivo 
+
+git status: veo el estado del repo
+
+git log: veo los commits
+
+
+
