@@ -1,0 +1,7 @@
+Respuesta:
+
+Matilda , va a necesitar un AMD Ryzen 5 3600 para poder correr Cyberpunk 2077, ya que es un juego que requiere una tarjeta gráfica dedicada, y por lo tanto, va a requerir un procesador potente también.
+
+Marcelo, va a necesitar el Intel I3 3230, ya que con este procesador alcanza para ejecutar la suite de Office 2019.
+
+Por último, el hermano mayor,  va a utilizar el Amd a8 9600, ya que este procesador tiene una GPU integrada que va a servir para usar Filmora X.
