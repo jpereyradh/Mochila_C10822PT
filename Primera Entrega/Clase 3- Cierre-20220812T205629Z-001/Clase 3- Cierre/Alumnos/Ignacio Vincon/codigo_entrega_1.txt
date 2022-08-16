@@ -1,0 +1,80 @@
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ mkdir Peliculas
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ mkdir Accion  Comedia  Infantiles  Romanticas  Terror
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ cd Accion/
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Accion
+$ touch "Smooth criminal".txt "Diario de una pasion".js "El hexorcista".xls Cars.jpg
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Accion
+$ ls
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Accion
+$ cd ../
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ cd Terror/
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Terror
+$ touch "La dama y el bagavundo".png "Yo antes de ti".xls  "Que paso ayer".pdf "We will rock you".js
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Terror
+$ ls
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Terror
+$ cd ../
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ cd Comedia/
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Comedia
+$ touch "Madagaskar.js" "Orgullo y prejuicio".txt "IT".xls "Mision imposible".png
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Comedia
+$ ls
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Comedia
+$ cd ../
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ cd Romanticas/
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Romanticas
+$ touch "Pocahontas".jpg "Annabelle".js "Los vengadores".js "La mascara".js
+
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ cd Infantiles/
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Infantiles
+$ touch "Intenzamente".txt "El juego del miedo".xls "Rapido y furioso".pdf "Titanic".jpg
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Infantiles
+$ cd ../
+
+Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
