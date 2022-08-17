@@ -1,0 +1,11 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+Github fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails, y empezó en 2008. Aunque la compañía, Github, Inc, existía desde 2007.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+GitHub Inc. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Puedes lanzar GitHub Desktop desde la línea de comando. En la barra de menú, selecciona el menú de GitHub Desktop y luego da clic en Instalar la Herramienta de Línea de Comandos.
