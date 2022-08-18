@@ -1,0 +1,17 @@
+NOMBRE DEL JUEGO 		PESO 	UNIDAD
+
+Resogun				    0,44	GB
+Don't Starve			0,59	GB
+Trine 2: Complete Story		2,70	GB
+Bound By Flame			5,08	GB
+Flower				17,58	GB
+Assassin's Creed IV: Black Flag	21,20	GB
+Infamous: Second Son		24,00	GB
+DriveClub			28,86	GB
+Knack				35,60	GB
+MLB 14 The Show			37,50	GB
+Killzone: Shadow Fall SP		38,50	GB
+Battlefield 4			41,85	GB
+
+
+TOTAL DE MEMORIA OCUPADA		253,90	GB
