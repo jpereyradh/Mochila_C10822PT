@@ -1,0 +1,9 @@
+A. Fue creado por Linus Torvalds en 2007 para  llevar registro de los 
+cambios en archivos de computadora incluyendo coordinar el trabajo que 
+varias personas realizan sobre archivos compartidos en un repositorio de 
+código.
+B.Pertenece a Microsoft y esto es un paso mas en la inclinación de la 
+misma empresa para enfocarse todo lo posible al desarrollo, haciendo una 
+vez más hincapié en que el núcleo de la empresa lo forman los 
+desarrolladores y nada más.
+C.Si 
