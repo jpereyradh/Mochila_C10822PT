@@ -1,0 +1,10 @@
+Respuestas Primera Parte:
+a. Git, es un software de control de versiones diseñado por Linus Torvalds (Diseñador de Linux).Es un sistema de gestión
+de versiones es la herramienta por excelencia de los desarrolladoras y desarrolladores utilizan para
+administrar sus proyectos, ordenando así el código de cada una de las nuevas versiones que sacan de
+sus proyectos o aplicaciones para evitar confusiones. Así, al tener copias de cada una de las versiones
+de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
+
+b. Actualemnte pertenece a Microsoft
+
+c. Si se puede trabajar desde otras plataaaformas pero desde la terminal es donde podemos usar todo su potencialy comandos.
