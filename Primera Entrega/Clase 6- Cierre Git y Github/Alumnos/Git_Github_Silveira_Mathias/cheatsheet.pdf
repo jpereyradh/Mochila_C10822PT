@@ -1,0 +1,9 @@
+$ cd / Nos lleva a una carpeta
+$ mkdir / Crea una carpeta
+$ touch / Crea un archivo
+$ git init / Crea un repositorio
+$ git add . / Agrega archivos al repositorio
+$ git commit -m / Crea un commit
+$ git clone / clona un repositorio
+$ git push origin / sube archivos al repositorio
+$ git pull origin / actualiza archivos del repositorio
