@@ -1,0 +1,5 @@
+1) El AMD A8 9600 es el indicado para utilizar office ya que es el procesador más gama baja y el office es el programa con menor cantidad de requisitos de procesador
+
+2) El procesador i3 3230 puede ser el indicado para ediciones con el filmora ya que es un procesador de gama media/baja con graficos integrados.
+
+3) Mientras que el AMD Ryzen 5 3600 si bien no tiene graficos integrados (a diferencia del 3400g) es el procesador más potente en cuanto a frecuencia/nucleos e hilos y al CyberPunk 2077 tiene un alto requisito del mismo.
