@@ -1,0 +1,64 @@
+PC gama baja
+1)
+ Procesador: Core i3 7100
+ Placa madre:GIGABYTE H410M Socket 1200
+ Memoria principal: DDR4 Adata 2666MHz 4GB
+ Memoria secundaria: 3.5 Western Digital 1TB 7200RPM 64MB 
+
+2)
+ Procesador: Ryzen 3 2200g
+ Placa madre: ASUS PRIME A320M Socket AM4
+ Memoria principal: DDR4 Kingston Fury Beast 2666MHz 4GB
+ Memoria secundaria: 3.5 Seagete 1TB 7200RPM SATA 64MB Barracuda
+
+3)
+ Procesador: Ryzen 5 3600 SixCore 3.6GHz 34MB
+ Placa madre:GIGABYTE B450M Socket AM4
+ Memoria principal: DDR4 Kingston Fury Beast 2666MHz 4GB
+ Memoria secundaria: 3.5 Western Digital Purple Surveillance 1TB SATA 3 64MB
+
+
+PC gama media
+1)
+ Procesador: Intel Core i5-12400 de 3.10 GHz.
+ Placa madre:B75 LGA 1155
+ Memoria ram: DDR3 8GB 3200mhz
+ Memoria secundaria: SSD 512GB
+ GPU: GeForce GT 1030 2GD4 LP OC
+
+2)
+ Procesador: AMD Ryzen 5 5600X 6 3.7 GHz
+ Placa madre: A320M Asrock
+ Memoria ram: 16GB (2X8) DDR4 3200
+ Memoria secundaria: SSD NVMe de 1 TB
+ GPU: RX 6500 XT 4GB ASUS DUAL
+
+3)
+ Procesador: AMD Ryzen 5 5600g AM4
+ Placa madre: MSI A520M pro-vh
+ Memoria ram: 16GB (2X8) DDR4 3200 pny
+ Memoria secundaria: SSD M.2 NVME 500GB pny CS2140
+ GPU: GTX 1650 super 4GB EVGA SC ultra
+
+PC gama alta
+ 1)
+ Procesador: Core i7-10700
+ Placa madre: GIGABYTE Z690 UD DDR5
+ Memoria ram: 32GB (2×16) DDR5 5200 Kingston fury beast
+ Memoria secundaria: SSD M.2 NVME 2TB Adata XPG Gammix S11 PRO
+ GPU: GEFORCE RTX 3080 TI 12GB pny XLR8 RGB
+
+ 2)
+ Procesador: Amd Ryzen 7 3800xt
+ Placa madre: GIGABYTE X570 Aorus Master
+ Memoria ram: Crucial Ballistix RGB 64 GB (2x32 GB) DDR4-3600
+ Memoria secundaria: Kingston 4.0TB Fury Renegade SSD M.2
+ GPU: NVIDIA GeForce RTX 3080
+
+ 3)
+ Procesador: AMD AM4 Ryzen 9 5900X
+ Placa madre: ASUS AM4 PRIME X570-P
+ Memoria ram: DDR4 16GB 3200MHZ KINGSTON FURY BEAST (2x16)
+ Memoria secundaria: SSD M.2 KINGSTON 2000GB SNVS NVMe PCIe
+ GPU:  RADEON RX 6700 XT 12GB ROG STRIX ASUS
+
