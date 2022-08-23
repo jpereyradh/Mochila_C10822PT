@@ -1,0 +1,13 @@
+git init - crea repo local
+git config user name -agrega nuestra identidad
+git config user email-agrega nuestro correo
+git remote add origin...- vincula repo remoto
+git add .- agrega los archivos
+git commit -m -comitea los cambios echos
+git push origin "rama" - envia los cambio al repo remoto
+git status -realiza un seguimiento de los estados de los archivos
+git pull - descarga los cambios que existen en el repo remoto
+git clone .. - clonar un repo existente
+git branch ".." crea una rama 
+git remote -v - ver repo donde se envian los cambios
+git checkout - cambiar de rama
