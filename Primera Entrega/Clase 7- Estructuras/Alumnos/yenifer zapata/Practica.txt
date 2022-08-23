@@ -1,0 +1,8 @@
+Amd Ryzen 5 3600 (es para matilda ya que es el procesador mas potente de los 3 
+y matilda es la que mas requiere procesamiento)
+
+Amd a8 9600 (Es para el hermano mayor que requiere usar filmora ya que es el segundo 
+procesador mas potente de los 3)
+
+intel i3 3230 (Es para el hermano menor ya que solo desea usar office y no requiere
+de mucha potencia en el procesador)
