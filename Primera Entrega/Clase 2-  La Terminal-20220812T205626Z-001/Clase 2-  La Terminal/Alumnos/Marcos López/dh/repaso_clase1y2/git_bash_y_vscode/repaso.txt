@@ -1,0 +1,1 @@
+Git Bash y VSCode son programas que me permiten trabajar con la CLI.

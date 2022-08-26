@@ -1,0 +1,1 @@
+Son las terminales que nos permiten dar ordenes a la computadora.
