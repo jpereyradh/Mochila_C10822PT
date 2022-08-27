@@ -1,0 +1,25 @@
+
+¿Que es un usuario root?
+El usuario root es un usuario que posee todos los derechos y/o permisos de sistema.
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+
+Ubuntu por lo general no tiene contraseña predeterminada y por default excluye el acceso como usuario root. Pero al usuario que instaló el sistema operativo le da privilegios de administrador. Y por lo general cuando pide contraseña de administrador es la contraseña de este usuario.
+
+En la consola si se quiere ejecutar algo con permisos de administrador se debe anteponer el comando “sudo” al que se quiere ejecutar y se requiere una terminal con privilegios de administrador el comando sería “sudo -s”
+
+¿Cuáles son los procesos típicos de Linux? ¿Cómo identificarlos?
+
+En Linux, los procesos no se adelantan al proceso actual en ejecución, no pueden detener su ejecución para que puedan ejecutarse. Cada proceso decide ceder la CPU en la que se está ejecutando cuando tiene que esperar algún evento del sistema. Por ejemplo, un proceso puede tener que esperar a que se lea un carácter de un archivo.
+
+Para ver los procesos en sistemas Linux, contamos con el comando ' ps ', que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo
+
+
+
+
+Comandos:
+apt install cowsay: Instala la aplicacion cowsay (me pide ser root por lo que se usó sudo delante)
+cowsay "Hola mundo": Devuelve una vaquita diciendo "Hola mundo"
+sudo apt install fortune: Instala la app fortune
+fortune: devuelve una cita de algun escritor famoso.
+fortune | cowsay: la vaquita ahora es la que cita un escritor.
