@@ -1,0 +1,39 @@
+
+Crear repositorio local
+	Git init
+
+Clonar un repositorio remoto
+	Git clone (y colocar el link del repo)
+
+Configurar nombre y correo en un repositorio
+	git config user.name
+	git config user.email
+
+Comprobar configuracion
+	git config --list
+
+Crear rama
+	git branch (nombre rama)
+
+Crear rama y moverse a la misma
+	git checkout -b (nombre rama)
+
+Cambiar de rama
+	git checkout (nombre rama)
+
+Obtener informacion sobre la rama en la que estamos
+	git status
+
+agregar cambios
+	git add . <-- agrega todos los cambios
+
+realizar un punto de control
+	git commit -m "nombre del commit"
+
+enviar cambios
+	git push
+
+bajar actualizaciones del repo remoto
+	git pull (nombre)
+
+
