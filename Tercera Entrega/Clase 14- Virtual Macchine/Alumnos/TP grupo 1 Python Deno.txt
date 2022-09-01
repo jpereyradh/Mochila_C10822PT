@@ -1,0 +1,50 @@
+Consigna 1:
+-Python tiene un tipo de ejecucion interpretado.
+-Deno tiene un tipo de ejecucion de compilado
+
+Consigna 2:
+-El lenguaje de programación Python es ampliamente utilizado por empresas de todo el mundo para construir aplicaciones web, analizar datos, automatizar operaciones y crear aplicaciones empresariales fiables y escalables.
+
+-Deno es una plataforma para la ejecución de código Javascript fuera del navegador que permite realizar aplicaciones en cualquier ámbito, como podría ser los programas de consola, servicios web o aplicaciones de backend en general.
+
+Consigna 3:
+-Python puede utilizar estos editores de texto: 
+vim. 
+emacs. ...
+Nano. ...
+Atom. ...
+Visual Studio Code. ...
+Sublime Text. ...
+Notepad++ ...
+Pycharm.
+
+libreria: Matplotlib. Matplotlib. ...
+TensorFlow. 
+PyTorch. ...
+Keras. ...
+Scikit-learn. ...
+Pandas. ...
+Seaborn. ...
+Bokeh.
+
+
+-Deno se puede utilizar con el IDE Visual Studio Code en version Demo.
+Podemos dividir Deno en la biblioteca estándar y los módulos de terceros, donde Oak se destaca entre la multitud.
+Oak tiene una API similar a Express, por lo que se sentirá como en casa al crear API REST, usar middlewares, manejar la negociación de contenido, etc., para mí, esto fue realmente genial porque reduce el cambio de contexto usando una convención que está bastante establecida entre los desarrolladores de Nodejs (porque podrían ser el público objetivo de Deno).
+
+
+
+Consigna 4:
+-Sintaxis de la operación Python
+x = 4 ;
+y = 5 ;
+z =x+y;
+print (z);
+
+-Deno:
+const x = 4 ;
+const y = 5 ;
+const z = x + y ;
+
+console.log(z);
+
