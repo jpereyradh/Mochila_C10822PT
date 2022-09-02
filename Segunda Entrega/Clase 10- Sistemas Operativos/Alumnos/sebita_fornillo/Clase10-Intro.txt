@@ -1,0 +1,133 @@
+﻿Ejercitación UBUNTU:
+
+
+df:
+
+
+  
+
+Similar a “ls”, muestra los archivos y carpetas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+top:
+
+
+  
+
+Similar al administrador de programas de Windows donde podemos ver las tareas y cuántos recursos utilizan del sistema. Para acceder presionar crt+alt+del y elegir adminitrador de tareas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Actividad Sistemas Operativos: Mesa 2, OpenSUSE
+
+
+● Descripción del SO
+openSUSE es el nombre de la distribución y el proyecto libre auspiciado por SUSE Linux GmbH (una división independiente de Blitz 18-679 GmbH), y AMD2​ para el desarrollo y mantenimiento de un sistema operativo basado en GNU/Linux. Después de adquirir SUSE Linux en enero de 2004,3​ Novell decidió lanzar SUSE Linux Professional como un proyecto completamente de código abierto, involucrando a la comunidad en el proceso de desarrollo.4​ La versión inicial fue una versión beta de SUSE Linux 10.0, y se continúa esa denominación para las versiones actuales, con la excepción de la serie openSUSE Leap 42.
+
+
+● ¿Es open source o con licencia ?
+Open Source
+
+
+● ¿Cuales son los recursos de Hard que tiene la
+MV? Si no se pueden ver, buscar requisitos
+mínimos en internet
+* Procesador: Procesador AMD64 o Intel64. Sólo son soportadas arquitecturas de 64 bits a partir de esta versión.
+* Memoria RAM: 1 GB de RAM física (2 GB recomendados)
+* Disco duro: 5,0 GB para una instalación normal (más recomendado).
+* Tarjeta de sonido y Tarjeta gráfica: La mayoría de las tarjetas modernas son soportadas.
+* Resolución de pantalla: 800x600 (aunque se recomienda 1024x768 o mayor), estando soportadas casi la totalidad de las tarjetas gráficas e integradas, entre estas las más populares del mercado como AMD, NVIDIA, Intel y VIA.
+
+
+● ¿Cómo se accede a la ventana de comandos?
+Konsole, GNOME Terminal y Termina -Super User Mode.
+Al escribir terminal en la barra de búsqueda en el botón inicio(k) aparecen las opciones de arriba.
+
+
+● ¿Puedo instalar aplicaciones?¿Por qué?
+Si, si estuviera instalado en nuestra pc o si tuviéramos el “código root” de la máquina virtual en internet.
+
+
+● ¿Hay juegos instalados?
+Si viene con varios, divididos por tipo.
+Lógica, Tablero, cartas, para niños.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+● Capturar una imagen del file explorer (ejemplo)
