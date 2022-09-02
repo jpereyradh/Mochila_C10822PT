@@ -1,0 +1,34 @@
+memoria , nucleos fisicos y virtuales, se uan 3 y 3 son 6 procesos, multiproceso.
+procesador con graficos integrados, el procesador tambien hace el trabajo de los integrados. doble trabajo.
+
+ha procesadores sin graficos integrados, tenemos que comprar una tarjeta graafica en estos casos.
+latencia, retardo de tiempo entre que el cpu escuchar la peticion y ejecutarla. 
+renderizado, gaming.hilos , el procesaddor se divide en procesos mas pequeños. socalos, intel.. amd.. numero diferente de zocalos.
+el mader debe ser compatible con el procesador.
+Frecuencia del reloj, hercios, veloidad con laque el procesador procesa.
+tipos de memorias principales. ROM- MEMORIA DE SOLO LECTURA -READ ONLY MEMORY. Es info que el pc necesita para encender. informa cantidad de ram de nucleos, como se comunican los buses. info que necesita el madder para poder funcionar, como mellamo, donde vivo. etc.
+LA ROM ALMACENA LA BIOS, SET UP DE LA BIO(permite modificar la configuracion, temperatura del procesador, cuantos canales tengo de ram, si voy a priorizar un dispositivo de la ram sobre otro,)
+En la rom tambien se almacenan pilas que tienen configuraciones como fecha hora etc. si enciendo el compu y tengo un hora mal, la pila esta mal, no esta reteniendo carga.
+Memorias reprogramables. permiten sobreescribir la info que tiene.
+EPROM, O PROM.Estas dependen del MADDER del fabricante.
+
+la memoria RAM no guarda info de forma secuencial, lo guarda en  el hueco que haya segun los algoritmos, en cualquier ubicacion y guarda un índice de donde quedó guardado, ej, celda 34 del word.
+
+CACHÉ- VOLATIL COMO LA RAM, se borra al apagar la pc
+
+dual channel. 2 de 2.
+paginación y segmentación. 
+cuando la ram se queda sin espacio físico, usa el disco duro como respaldo, para poder hacerlo necesita ede la paginacion o segmentacion.
+
+paginacion, calcula tamaño fisico y virtual del disco duro, calcula que porcentaje almacena en cada uno y que programa almacena en cada uno.
+fragmentación de un disco,
+
+depuración del disco, saca lo que no necesita.discos rigidos.
+los discos se escriben en distintos sectoes (clusters) por la inercia misma ´tan rapida del mismo luego busca agrupar la info. Si decido eliminar una info la puedo recuperar. no la borra del todo. 
+defragmentacion- se reordena la informacion. Es decir el lugar que antes estaba ocupado 
+
+HDD O SSD SON MEMORIAS SECUNDARIAS.
+PRINCIPALES SE COMUNICAN DIRECTAMENTE AL PROCESADOR Y LAS SECUNDARIAS LE PIDE INFO A LAS MEMORIAS PRINCIPALES.
+
+DUAL CHANNEL. La mayoria tiene dual channel.el dual channel se usa cuando tenemos mucho renderizado,
+el dual channel hace que 2 memorias ram trabajen al mismo tiempo. 
