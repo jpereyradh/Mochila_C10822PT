@@ -1,0 +1,89 @@
+pwd
+/c/Users/Il Gordo VC
+
+mkdir ./desktop/dh/Peliculas
+
+mkdir ./desktop/dh/Peliculas/Infantiles ./desktop/dh/Peliculas/Accion ./desktop/dh/Peliculas/Terror ./desktop/dh/Peliculas/Comedia ./desktop/dh/Peliculas/Romanticas
+
+touch ./desktop/dh/Peliculas/Infantiles/Intenzamente.txt ./desktop/dh/Peliculas/Infantiles/"El juego del miedo".xls ./desktop/dh/Peliculas/Infantiles/"Rapido y furioso".pdf ./desktop/dh/Peliculas/Infantiles/Titanic.jpg
+
+touch ./desktop/dh/Peliculas/Accion/"Smooth Criminal".txt ./desktop/dh/Peliculas/Accion/"Diario de una pasion".js ./desktop/dh/Peliculas/Accion/"El hexorcista".xls ./desktop/dh/Peliculas/Accion/Cars.jpg
+
+touch ./desktop/dh/Peliculas/Terror/"La dama y el bagavundo".png ./desktop/dh/Peliculas/Terror/"Yo antes de ti".xls ./desktop/dh/Peliculas/Terror/"Que paso ayer".pdf ./desktop/dh/Peliculas/Terror/"We will rock you".js 
+
+touch ./desktop/dh/Peliculas/Comedia/Madagaskar.js ./desktop/dh/Peliculas/Comedia/"Orgullo y prejuicio".txt ./desktop/dh/Peliculas/Comedia/IT.xls ./desktop/dh/Peliculas/Comedia/"Mision imposible".png
+
+touch ./desktop/dh/Peliculas/Romanticas/Pocahontas.jpg ./desktop/dh/Peliculas/Romanticas/Annabelle.js ./desktop/dh/Peliculas/Romanticas/"Los vengadores".js ./desktop/dh/Peliculas/Romanticas/"La mascara".js
+
+ls -R ./desktop/dh/Peliculas
+
+
+
+Punto 9
+
+Es posible ambas partes, el codigo está arriba
+
+
+cd desktop/dh
+
+mkdir ./Peliculas/Romanticas/Prueba
+
+cd ./Peliculas/Romanticas
+
+mkdir ../Accion/Prueba2
+
+
+Visual studio code:
+
+
+mv ./Peliculas/Infantiles/"El juego del miedo".xls ./Peliculas/Terror/
+mv ./Peliculas/Infantiles/"Rapido y furioso".pdf ./Peliculas/Accion/ 
+mv ./Peliculas/Infantiles/Titanic.jpg ./Peliculas/Romanticas/
+
+
+mv ./Peliculas/Accion/Cars.jpg ./Peliculas/Infantiles/ 
+mv ./Peliculas/Accion/"Diario de una pasion".js ./Peliculas/Romanticas/ 
+mv ./Peliculas/Accion/"El hexorcista".xls ./Peliculas/Terror/
+
+mv ./Peliculas/Terror/"La dama y el vagabundo".png ./Peliculas/Infantiles/ 
+mv ./Peliculas/Terror/"Yo antes de ti".xls ./Peliculas/Romanticas/  
+mv ./Peliculas/Terror/"Que paso ayer".pdf ./Peliculas/Comedia/
+
+mv ./Peliculas/Comedia/Madagaskar.js ./Peliculas/Infantiles/
+mv ./Peliculas/Comedia/"Orgullo y prejuicio".txt ./Peliculas/Romanticas/
+mv ./Peliculas/Comedia/IT.xls ./Peliculas/Terror/
+mv ./Peliculas/Comedia/"Mision imposible".png ./Peliculas/Accion/
+
+mv ./Peliculas/Romanticas/Pocahontas.jpg ./Peliculas/Infantiles/
+mv ./Peliculas/Romanticas/Anabelle.js ./Peliculas/Terorr/
+mv ./Peliculas/Romanticas/"Los vengadores".js ./Peliculas/Accion/
+mv ./Peliculas/Romanticas/"La mascara".js ./Peliculas/Comedia/
+
+
+CD ../../
+
+mv ./Peliculas/Infantiles/Intenzamente.txt ./Peliculas/Infantiles/Intensa-mente.txt
+mv ./Peliculas/Infantiles/"La dama y el bagavundo".png ./Peliculas/Infantiles/"La dama y el vagavundo".png
+mv ./Peliculas/Infantiles/Madagaskar.js ./Peliculas/Infantiles/Madagascar.js
+mv ./Peliculas/Terror/"El hexorcista".xls ./Peliculas/Terror/"El exorcista".xls
+
+RM ./Peliculas/Terror/"We will rock you".js
+RM ./Peliculas/Accion/"Smooth criminal".txt
+
+(se pueden poner ambos juntos para q sea en una sola linea, no se entendía la consigna)
+
+touch ./Peliculas/Accion/Prueba2/noBorrar.js
+cd ./Peliculas
+mv Accion/Prueba2/noBorrar.js ./Prueba
+
+cd../
+touch camadax.txt
+cd Peliculas
+
+mv ./Terror/IT.xls ./Infantiles/IT.xls
+
+rm ../camadax.txt
+
+rm -r ./Prueba
+
+

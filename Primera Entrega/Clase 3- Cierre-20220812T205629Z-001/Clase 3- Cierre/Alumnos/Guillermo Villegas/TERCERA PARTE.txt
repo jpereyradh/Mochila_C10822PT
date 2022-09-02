@@ -1,0 +1,32 @@
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas/Romanticas
+$ cd ..
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ cd ..
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH
+$ touch ./Películas/Acción/Prueba2/noBorrar.js
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH
+$ cd Películas/
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ mv ./Acción/Prueba2/noBorrar.js ./Romanticas/Prueba/
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ cd ..
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH
+$ touch camada1.txt
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH
+$ cd ./Películas/
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ mv ./Terror/IT.xls ./Infantiles/
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ rm ../camada1.txt
+
+Guille@DESKTOP-RKFMDNP MINGW64 ~/Desktop/DH/Películas
+$ rm -R ./Romanticas/Prueba/

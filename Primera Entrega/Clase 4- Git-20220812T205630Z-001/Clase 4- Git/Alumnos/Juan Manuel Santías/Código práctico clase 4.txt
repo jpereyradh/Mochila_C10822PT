@@ -1,0 +1,113 @@
+Administrador@JuanManuel MINGW64 ~/desktop
+$ mkdir Ecommerce
+
+Administrador@JuanManuel MINGW64 ~/desktop
+$ cd Ecommerce
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce
+$ touch app.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce
+$ touch config.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce
+$ mkdir db
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce
+$ git init
+Initialized empty Git repository in C:/Users/Administrador/Desktop/Ecommerce
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git add .
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git commit -m "Primer Commit"
+[main (root-commit) e192b85] Primer Commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 app.js
+ create mode 100644 config.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ cd cb
+bash: cd: cb: No such file or directory
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ cd db
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ touch producto_db.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ touch carrito_db.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ cd ..
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ nano app.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ cat app.js
+Hola
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git commit -m "Guardando lo importante"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git add .
+warning: in the working copy of 'app.js', LF will be replaced by CRLF the next time Git touches it
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ git commit -m "Guardando una parte del proyecto"
+[main 2bae57e] Guardando una parte del proyecto
+ 3 files changed, 1 insertion(+)
+ create mode 100644 db/carrito_db.js
+ create mode 100644 db/producto_db.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce (main)
+$ cd db
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ rm producto_db.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ git restore
+fatal: you must specify path(s) to restore
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ git restore .
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ rm ../config.js
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ git add .
+
+Administrador@JuanManuel MINGW64 ~/desktop/Ecommerce/db (main)
+$ git commit -m "Sacando la configuración
+>

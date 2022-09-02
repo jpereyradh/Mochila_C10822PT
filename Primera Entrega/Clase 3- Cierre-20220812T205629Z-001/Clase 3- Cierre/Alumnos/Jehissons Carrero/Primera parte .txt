@@ -1,0 +1,168 @@
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~
+$ cd Desktop
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop
+$ mkdir DH
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop
+$ cd DH
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH
+$ mkdir Peliculas
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH
+$ cd Peliculas
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Infantiles
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ touch Intezamente.txt " El juego del miedo.xls "" Rapido y furioso.pdf"" Titanic.jpg"
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ ls
+' El juego del miedo.xls  Rapido y furioso.pdf Titanic.jpg'   Intezamente.txt
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ cd Accion
+bash: cd: Accion: No such file or directory
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Infantiles
+$ cd ..
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Accion
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ touch "Smooth criminal.txt""Diario de una pasion.jc""El hexorcista.xls""Cars.jpg"
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ ls
+'Smooth criminal.txtDiario de una pasion.jcEl hexorcista.xlsCars.jpg'
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ cd..
+bash: cd..: command not found
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Accion
+$ cd ..
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Terror
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ touch "La dama y el bagavundo.png""Yo antes de ti.xls""Que paso ayer.pdf""We will rock you.js"
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ ls
+'La dama y el bagavundo.pngYo antes de ti.xlsQue paso ayer.pdfWe will rock you.js'
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Terror
+$ cd ..
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romantica
+bash: cd: Romantica: No such file or directory
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ Cd Rom
+bash: Cd: command not found
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ Cd Romanticas/
+bash: Cd: command not found
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanticas
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ touch "Pocahontas.jpg""Annabelle,js""Los vengadores.js""La mascara.js"
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ ls
+'Pocahontas.jpgAnnabelle,jsLos vengadores.jsLa mascara.js'
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ mv Romanticas Romantica
+mv: cannot stat 'Romanticas': No such file or directory
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ cd ..
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ mv Romanticas Romantica
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ touch Comedia
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ rm -r Comedia
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Infantiles/  Romantica/  Terror/
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd Comedia
+bash: cd: Comedia: No such file or directory
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ mkdir Comedia
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ ls
+Accion/  Comedia/  Infantiles/  Romantica/  Terror/
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ cd comedia
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/comedia
+$ touch Madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/comedia
+$ ls
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas/comedia
+$ cd
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~
+$ pwd
+/c/Users/Jehissons Carrero
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~
+$ cd ./Desktop/DH
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH
+$ cd Peliculas/
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romantica/  Terror/
+
+./Accion:
+'Smooth criminal.txtDiario de una pasion.jcEl hexorcista.xlsCars.jpg'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+' El juego del miedo.xls  Rapido y furioso.pdf Titanic.jpg'   Intezamente.txt
+
+./Romantica:
+'Pocahontas.jpgAnnabelle,jsLos vengadores.jsLa mascara.js'
+
+./Terror:
+'La dama y el bagavundo.pngYo antes de ti.xlsQue paso ayer.pdfWe will rock you.js'
+
+Jehissons Carrero@WKSAR1592L MINGW64 ~/Desktop/DH/Peliculas
+$
