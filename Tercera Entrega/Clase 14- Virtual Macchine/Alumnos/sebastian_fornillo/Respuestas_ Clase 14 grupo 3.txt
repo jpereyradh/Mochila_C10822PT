@@ -1,0 +1,66 @@
+﻿Respuestas:
+
+
+1. ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+   1. GO
+Go es un lenguaje de programación concurrente y compilado con tipado estático inspirado en la sintaxis de C, pero con seguridad de memoria y recolección de basura. Go es un lenguaje de programación creado por Google en 2009, más conocido como Golang.
+   2. C++
+C++ es un ejemplo de lenguaje de programación compilado, multiparadigma, principalmente de tipo imperativo y orientado a objetos, incluyendo también programación genérica y funcional
+
+
+2. ¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+   1. GO
+Golang ha ganado mucha fuerza, empresas de renombre confían en golang, entre ellas Dropbox, Docker, Facebook, Netflix, Uber y Twitter, puedes consultar la lista de compañías de todo el mundo que actualmente usan golang en https://github.com/golang/go/wiki/GoUsers. Con golang puedes programar tu aplicación una sola vez y luego compilarla para cualquier sistema operativo, esta característica es conocida como cross compilation. Go es un lenguaje de programación creado por Google en 2009, más conocido como Golang.
+   2. C++
+Microsoft Visual C + + es un entorno de desarrollo integrado pensado, como su nombre lo dice, para escribir código con C++ y aporta numerosas facilidades al programador. En este caso se utiliza principalmente para el desarrollo de aplicaciones para el sistema operativo Windows
+3. ¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo.
+   1. GO
+En https://golang.org/pkg/ puedes encontrar las librerías internas de Go y otras que puedes obtener con go get.
+   2. C++: dev c++
+La librería principal de c + + es <iostream>.
+
+
+4. Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática:
+○ x = 4
+○ y = 5
+○ z = x + y
+○ mostrar por pantalla z
+   3. GO
+package main
+
+
+import "fmt"
+
+
+func main() {
+    x := 4
+    y := 5
+    z := x+y
+    fmt.Println(z)
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   4. ++
+#include <iostream>
+
+
+int main() {
+    int x = 4;
+    int y = 5;
+    int z = x+y;
+    std::cout << z << std::endl;
+}
