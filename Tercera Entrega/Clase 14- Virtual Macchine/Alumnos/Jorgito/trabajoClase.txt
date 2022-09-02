@@ -1,0 +1,19 @@
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes puntos: ¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+
+Es un lenguaje de programación multiparadigma, imperativo, estructurado y bastante ligero, que fue diseñado como un lenguaje interpretado con una semántica extendible. Está diseñado principalmente para ser utilizado de manera incorporada en aplicaciones
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje? 
+
+Lua está diseñado principalmente para ser incorporado en aplicaciones. ​ Debido a lo anterior, es común que sea empleado como lenguaje principal de diversas API para el desarrollo de complementos y modificaciones.
+
+¿Con qué ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo. 
+
+Por ejemplo, programas como ZeroBrane Studio, REAPER o Rockbox son extensibles a través del uso de Lua. Otro programa que hace uso de este lenguahe es Renoise, un DAW escrito en C++ que, en sus ultimas versiones, ofrece la posibilidad de usar el codigo de Lua para extender sus capacidades.
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática: 
+○ x = 4 ○ y = 5 ○ z = x + y
+
+
+
+
+// IMAGENES EN EL ARCHIVO ADJUNTO
