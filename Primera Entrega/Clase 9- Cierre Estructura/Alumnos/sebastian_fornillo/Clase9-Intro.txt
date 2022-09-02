@@ -1,0 +1,68 @@
+
+Gama baja - Intel
+
+Procesador: Core i3 7100
+Placa madre: Gigabyte H310m M.2 2.0 Socket 1151
+Memoria principal: 4GB 2666 Mhz DDR4
+Memoria secundaria: HDD 1TB sata
+
+Gama baja - AMD
+
+Procesador: Ryzen 3 2200g
+Placa madre: Asus Prime A320m-k Socket Am4
+Memoria principal: 4GB 2666 Mhz DDR4
+Memoria secundaria: HDD 1TB sata
+
+Gama baja
+
+Procesador: i3 i1100
+Placa madre: GIGABYTE GA-H310M-H Socket 1200
+Memoria principal: 8GB 2666 Mhz DDR4
+Memoria secundaria: SSD 240GB sata
+
+Gama media - Intel
+
+Procesador: I5 9400 socket 1151
+Placa madre: ASROCK B360-M INTEL LGA 1151
+Memoria principal: 8gb 2666 Mhz DDR4
+Memoria secundaria: SSD 480GB sata
+GPU: Geforce GT 1030 2GD4 LP OC
+
+Gama media - AMD
+Procesador: Ryzen 5 4600G 4.2 Ghz SocketAM4
+Placa madre: A320M Asrock
+Memoria principal: 8gb 2666 Mhz DDR4
+Memoria secundaria: SSD 480GB sata
+GPU: Geforce GT 1030 2GD4 LP OC
+
+Gama media
+
+Procesador: Intel I5 11400
+Placa madre: Gigabyte H510M H Socket 1200
+Memoria principal: 8gb 2666 Mhz DDR4
+Memoria secundaria: SSD 480GB sata
+GPU: Gigabyte Nvidia Geforce RTX 3050 EAGLE OC 8GB
+
+Gama alta - Intel
+
+Procesador: Core i7-10700
+Placa madre:  Asus Prime Z590-P Socket 1200
+Memoria principal: 16GB (2 memorias Kingston Fury Beast 8GB 3200 Mhz DDR4)
+Memoria secundaria: Disco M.2 1tb nvme + HDD sata de 6tb
+GPU: Gigabyte GeForce RTX 3080 Gaming OC 12GB GDDR6X
+
+Gama alta - AMD
+
+Procesador: Amd Ryzen 7 3800xt
+Placa madre: Asus Rog Crosshair Viii Dark Hero Amd Am4 X570s
+Memoria principal: 16GB (2 memorias Kingston Fury Beast 8GB 3200 Mhz DDR4)
+Memoria secundaria:  Disco M.2 1tb nvme + HDD sata de 6tb
+GPU: Gigabyte GeForce RTX 3080 Gaming OC 12GB GDDR6X
+
+Gama Alta
+
+Procesador: INTEL CORE I9 12900K ALDERLAKE S1700 12VA
+Placa madre: Msi Mpg Z690 Carbon Wifi Ddr5 S1700
+Memoria principal: DDR4 16GB (2x8GB) CORSAIR 3600MHz VENGEANCE RGB
+Memoria secundaria:  Disco M.2 1tb nvme + HDD sata de 6tb
+GPU: MSI Nvidia GeForce RTX 3090 Ti Gaming X Trio 24GB GDDR6X
