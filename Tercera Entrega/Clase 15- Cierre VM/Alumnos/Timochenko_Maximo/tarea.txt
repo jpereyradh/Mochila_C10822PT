@@ -1,0 +1,13 @@
+Los lenguajes interpretados necesitan del interprete para ser usados en 
+diferentes sistemas operativos. Por otro lado los compilados, del compilador,
+que traduce el codigo a lenguaje maquina antes de ser ejecutado. En caso de 
+querer ejecutar dicho codigo en otra maquina con otra arquitectura vamos a 
+necesitar compilar nuevamente el programa en dicho sistema.
+
+Virtual bos es un software virtualizacion, no una maquina virtual.
+
+Si tengo varias mauinas virtuales y una se rompe n oafecta a las otras ya 
+que se encuentran compartimentadas, separadas como maquinas totalmente independientes una de la otra.
+
+
+
