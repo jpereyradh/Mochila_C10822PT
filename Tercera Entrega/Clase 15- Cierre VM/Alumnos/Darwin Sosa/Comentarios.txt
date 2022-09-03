@@ -1,0 +1,3 @@
+La pc no pudo con muchos procesos al mismo tiempo, por lo que tube que dejar de 
+usar la VM durante la instacia de mesas. Por lo tanto, dejo capturas del trabajo 
+medianto la pc, en el fin de semana haré las capturas desde la VM.
