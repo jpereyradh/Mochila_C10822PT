@@ -1,0 +1,32 @@
+***********
+* GRUPO 5 *  ->  PHP & C#
+***********
+
+
+PHP -> 
+desarrollo web. 
+multiparadigma.
+interpretado.
+IDE / Framework -> 
+Visual Studio Code / CakePHP
+_____________
+$var1 = 10 ;
+$var2= 8 ;
+echo $var1 + $var2 ;
+______________
+
+
+
+
+
+C# ->
+videojuegos.
+multiparadigma.
+compilado.
+IDE / Framework ->
+Visual Studio Code / .NET
+_____________
+int a = 10;
+int b = 8;
+Console.WriteLine(a+b);
+______________

@@ -1,0 +1,29 @@
+Clonar un repositorio remoto
+$ git clone https://gitbub/usuario/nombre_repo.git
+
+Inicializar (crear) repositorio local
+$ git init
+
+Configurar nombre de usuario
+$ git config user.name "nombre_usuario"
+
+Configurar mail de usuario
+$ git config user.email "email_usuario"
+
+Ver estado de los archivos dentro del repositorio
+$ git status
+
+Agregar archivos (todos) a staging
+$ git add .
+
+Pasar los archivos de staging a repositorio local
+$ git commit -m "comentario"
+
+Verificar link con repositorio remoto
+ $ git remote -v
+
+Generar link con repositorio remoto
+ $ git remote add origin <url_remote_repo>
+
+ Subir repo local a remoto (Github)
+ $ git push origin main
