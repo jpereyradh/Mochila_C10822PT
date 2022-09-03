@@ -1,0 +1,7 @@
+1- Porque un lenguaje de programacion compila al lenguaje ensamblador, el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de dos cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo. si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+Ahora si es la misma arquitectura de procesador y diferente sistema operativo, en ocaciones el sistema operativo cambia la definicion de la interrupcion o el llamado de esta; por ejemplo en WIndows para mostrar en pantalla usas la interrupcion 21, y en linux la 10, lo cual hace los ejecutables finales incompatibles entre S.O.
+
+2- Oracle VM virtualbox es un software de virtualizacion para arquitecturas x86/amd64.
+Por medio de esta aplicacion es posible instalar sistemas operativos adicionales, conocidos como sistemas invitados, dentro de otro sistema operativo (anfitrion), cada uno son su propio ambiente virtual.
+
+3- Depende de como esten configuradas
