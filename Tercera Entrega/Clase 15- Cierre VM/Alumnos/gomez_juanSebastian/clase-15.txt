@@ -1,0 +1,20 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizar en algunos sistemas operativos y en
+otros no?
+
+Rta.: Esto es devido a la arquitectura ya que si es diferente no tiene la forma de comunicarse, 
+solo se comunica entre si. 
+
+
+
+2. ¿Que tipo de máquina virtual es virtualBox?
+
+Rta.: virtualBox es un VM de sistema, creado por Oracle para arquitecturas x86/amd64.
+
+
+
+3. Si tengo más de una maquina instalada, y una se rompe, ¿esto afecta a las demás? ¿por que?
+
+Rta.: No se afecta ya que las demas maquinas no tienen interacción con la que se rompio.
+
+
+ 
