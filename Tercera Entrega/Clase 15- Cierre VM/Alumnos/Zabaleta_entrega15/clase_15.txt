@@ -1,0 +1,25 @@
+Ejercicio de clase 15.
+
+Con toda la mesa de trabajo debatan:
+
+sobre las siguientes preguntas y contesten en conjunto: 
+
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+Porque un lenguaje de programación compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de 2 cosas, de la arquitectura del procesador y la interpretación que le de el sistema operativo. Si en la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+● ¿Qué tipo de máquina virtual es virtualBox?. 
+
+VirtualBox es un software para virtualización, también conocido como hipervisor de tipo 2, que se utiliza para virtualizar sistemas operativos dentro de nuestro ordenador existente, creando lo que se conoce como máquina virtual. Un hipervisor de tipo 2 se diferencia con los de tipo 1 en qué necesita un sistema operativo para funcionar, a diferencia de los de tipo 1 en los que el propio hipervisor funciona sobre el hardware, o máquina host.
+
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
+
+No afectará, pero puede depender de si una máquina virtual no comparte un conmutador físico con ninguna otra máquina virtual, quedará completamente aislada de las máquinas virtuales del mismo host.
+
+Si no se configura ningún adaptador de red física para una máquina virtual, quedará completamente aislada. 
+
+Se incluye el aislamiento de cualquier red física o virtual.
+
+Las máquinas virtuales serán tan seguras como las máquinas físicas si las protege de la red con firewalls, software antivirus, etc.
+
+Si desea aumentar la protección de las máquinas virtuales, puede configurar reservas y límites de recursos en el host. Por ejemplo, puede usar la asignación de recursos y configurar una máquina virtual para que siempre reciba al menos un 10 % de los recursos de CPU del host, pero jamás más del 20 %.
