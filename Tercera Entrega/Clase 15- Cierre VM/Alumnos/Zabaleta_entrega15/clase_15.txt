@@ -23,3 +23,7 @@ Se incluye el aislamiento de cualquier red física o virtual.
 Las máquinas virtuales serán tan seguras como las máquinas físicas si las protege de la red con firewalls, software antivirus, etc.
 
 Si desea aumentar la protección de las máquinas virtuales, puede configurar reservas y límites de recursos en el host. Por ejemplo, puede usar la asignación de recursos y configurar una máquina virtual para que siempre reciba al menos un 10 % de los recursos de CPU del host, pero jamás más del 20 %.
+
+
+VIRTUAL MACHINE:
+
