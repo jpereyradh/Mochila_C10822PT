@@ -1,0 +1,8 @@
+Consigna 1:
+Se puede usar cualquier lenguaje de programación pero depende de que haya un intérprete o compilador si se quiere programar en esa maquina con ese sistema operativo
+
+Consigna 2:
+Es una maquina que sirve para instalaciones de sistemas operativos, esto quiere decir que puedo utilizar cualquier sistema operativo dentro del que estoy usando.
+
+Consigna 3:
+No, no afecta al sistema operativo "Principal" por así decirlo, es lo bueno de VirtualBox, porque está aislado del sistema operativo principal como una simulación o virtualización, aunque comparte componentes hardware.
