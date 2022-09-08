@@ -1,0 +1,7 @@
+red publica 191.95.151.166
+
+red privada 
+
+Mascara subred 255.255.255.0
+
+Direccion MAC 0a-e0-af-06-CA
