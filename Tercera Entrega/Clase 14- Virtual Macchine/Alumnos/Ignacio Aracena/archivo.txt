@@ -1,0 +1,37 @@
+// Lua
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes
+puntos:
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+
+Lua es un lenguaje de programación multiparadigma, imperativo, estructurado y bastante ligero, que fue diseñado como un lenguaje interpretado con una semántica extendible. 
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+Está diseñado principalmente para ser utilizado de manera incorporada en aplicaciones.
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una
+librería o framework famoso del mismo.
+
+La manera más rápida y sencilla de aprender a programar en Lua es ejecutar código desdela interactiva plataforma demo de Lua. Allí podrás poner a prueba todos los ejemplos de código que mostramos en este artículo. Para ello, copia alguno de los ejemplos en el campo de texto y haz clic en “run” para ejecutarlo.
+
+
+
+
+
+
+// R
+
+Por cada uno de los lenguajes asignados por mesa deberán realizar los siguientes
+puntos:
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+
+R es un entorno y lenguaje de programación con un enfoque al análisis estadístico. R nació como una reimplementación de software libre del lenguaje S, adicionado con soporte para ámbito estático.
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+Este entorno es comúnmente utilizado para la computación estadística y gráfica, ya que dispone de una amplia variedad de técnicas estadísticas (modelos lineales y no lineales, pruebas estadísticas clásicas, análisis de series de tiempo, clasificación, agrupamiento, etc.) y gráficas
+
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una
+librería o framework famoso del mismo.
+
+RStudio es una aplicación web que permite desarrollar con R y otros lenguajes de programación orientados al tratamiento de grandes cantidades de datos, estadísticas

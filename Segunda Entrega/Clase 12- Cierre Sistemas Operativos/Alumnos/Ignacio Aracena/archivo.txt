@@ -1,0 +1,19 @@
+¿Qué es un usuario root en Linux?
+El usuario root en Linux es aquel que posee los permisos necesarios para realizar cualquier
+acción. Es comparable con el usuario administrador de Windows.
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Porque utiliza la contraseña del usuario que lo instaló, otorgándole los privilegios de
+usuario root. Dicha contraseña se genera después de la instalación.
+¿Cuáles son los procesos típicos de Linux? ¿Cómo identificarlos?
+Los procesos típicos que identificamos, son los siguientes:
+
+VER IMAGEN ADJUNTA
+
+
+
+
+Tomando como base el comando top, para visualizar todos los procesos, llegamos a la
+conclusión de que los procesos con el Process ID menor son aquellos más típicos.
+Para establecer una nueva contraseña de usuario root primero debemos pasar a "super
+usuario" con el comando "sudo su*. Luego, ejecutamos el comando "passwd root" para
+establecer la contrasena.
