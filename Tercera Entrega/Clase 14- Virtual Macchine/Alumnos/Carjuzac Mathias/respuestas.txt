@@ -1,0 +1,9 @@
+Python:
+
+1. Python posee un tipo de ejecución Interpretado.
+2. Se utiliza comunmente para el desarrollo de aplicaciones e inteligencia artificial.
+3. Tenemos editores de texto como VISUAL STUDIO CODE o ATOM, ademas de IDE's mas usados como IDLE o IPython. De los frameworks mas conocidos de Pyton tenemos a Django y Pyramid.
+4.  x = 4
+    y = 5
+    z = x + y
+Lo que esto hace es aplicarle los valores 4 a X y 5 a Y, luego, Z recibe el valor de la suma de X e Y. Si agregamos un print(z), el programa devuelve el valor 9.
