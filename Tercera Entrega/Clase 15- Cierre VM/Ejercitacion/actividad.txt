@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
 sistemas operativos y en otros no?.
 
@@ -18,3 +19,25 @@ si una de ellas falla, no afectará al funcionamiento del resto.
 ¿por qué?
 
 por que desde un mismo servidor ejecuta varias instancias
+=======
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Por que las diferentes versiones de sistemas operativos al pasar de los años las compilaciones
+han ido cambiando por ende la forma de lenguaje se interpreta de diferente forma para uno y para otros.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+
+Se puede interpretar como un simulador o interprete de otros sistema operativo , en resumidas cuentas tener dos computadoras.
+Donde podremos hacer todo lo de un ordenador corriente al alcance de un programa.
+
+ Si tengo más de una máquina virtual instalada, y una se rompe, 
+¿esto afecta a las demás? 
+
+Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, 
+si una de ellas falla, no afectará al funcionamiento del resto.
+
+¿por qué?
+
+por que desde un mismo servidor ejecuta varias instancias
+>>>>>>> 9927dccbd6efaf39d83930802c3830f9fd4e5af4
