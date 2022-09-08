@@ -1,0 +1,18 @@
+IP Publica: 
+181.23.234.120
+
+IP Privada: 
+192.168.1.36
+
+Mascara subred:
+ 255.255.255.0
+
+Direccion Mac: 
+D8-BB-C1-0A-FD-DC  Fabricante:Micro-Star INTL CO., LTD.
+
+¿ La IP pública y privada de qué clase son ?
+Son Clase C
+
+¿ Qué información puedo obtener de la dirección MAC?
+Cada dirección MAC incluye seis parejas de números. Los primeros tres pares sirven para identificar al fabricante (existen buscadores como este por si tenéis curiosidad) y los tres siguientes al modelo concreto.
+
