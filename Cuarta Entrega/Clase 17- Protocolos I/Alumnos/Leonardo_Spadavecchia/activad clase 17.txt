@@ -1,0 +1,6 @@
+
+
+Que direcciones necesitamos averiguar :
+● Dirección IP Pública: 181.46.39.66
+● Dirección IP Privada y su Máscara de subred: 255.255.255.0(mascara de subred), 192.168.0.211 ((direccion ip (ipv4) privada)).
+● Dirección MAC: b4:2e:99:f0:f8:21  (GIGA-BYTE TECHNOLOGY CO.,LTD.)
