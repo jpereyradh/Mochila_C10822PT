@@ -1,0 +1,4 @@
+Atravez de la pagina podemos obtener el nombre del fabricante de la tarjeta de red de la computadora
+
+ip publica: dc:a9:04:7f:0c:c3
+mac: dc:a9:04:7f:0c:c3
