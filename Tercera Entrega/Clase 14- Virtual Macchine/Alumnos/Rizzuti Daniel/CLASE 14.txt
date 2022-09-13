@@ -1,0 +1,52 @@
+﻿¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+                                                 
+PHP: tipo de ejecución interpretado
+C#: tipo de ejecución compilado                                                                 
+                        
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje? 
+C#: se utiliza normalmente para aplicaciones implementadas para varios operadores, aplicaciones móviles y juegos. Orientado a objetos. Fue diseñado para hacer funciones eficientes y fáciles de usar.
+Los programas C# consiste generalmente de varias funciones pequeñas. Es un lenguaje que resuelve problemas del mundo real. Por ejemplo, un programa contador para productos de un supermercado donde devuelve la cantidad y el precio total de una compra. 
+
+
+PHP: es simple y de uso general aunque principalmente se centra en la programación de scripts del lado del servidor. Se adapta especialmente al desarrollo web (desarrollo de formularios, encuestas, blogs, etc). Además, ofrece seguridad frente a ataques informáticos protegiendo así los datos del usuario y se integra muy simple en una base de datos. 
+
+
+¿Con qué ide o editor de texto puede utilizar el lenguaje? Nombre de una librería o framework famoso del mismo. 
+
+
+A ambos lenguajes podemos utilizarlos con:
+
+
+* Ultraedit
+* Visual Studio Code
+* Sublime Text
+* Atom editor
+* Notepad++
+
+
+Frameworks PHP: Laravel, Symfony, Codeigniter, etc.
+Librerías PHP: Symfony Console Component, Psr/log, Monolog, etc. 
+
+
+Frameworks C#: ASP.NET Web Form, IdentityServer, etc.
+Librerías C#: AutoMapper, Moq, etc.
+
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática:                                 
+x= 4 y =5                                
+z = x+ y                
+mostrar por pantalla z
+ 
+C#:
+Console.WriteLine("El resultado de la suma es: ");
+            int x = 4;
+            int y = 5;
+            int z = x + y;
+            Console.WriteLine(z);
+PHP:   ←- este ya funciona D
+<?php
+echo "Sumando dos numeros!\n";
+        $num1 = 5;
+        $num2 = 4;
+        $suma = $num1 + $num2;
+       echo "La suma de ".$num1." + ".$num2." es ".$suma;
