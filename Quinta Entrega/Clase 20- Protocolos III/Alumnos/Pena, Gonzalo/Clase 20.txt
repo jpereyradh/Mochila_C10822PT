@@ -1,0 +1,34 @@
+Las ips públicas son las mismas?
+No. Mi ip pública convencional es la de mi ISP. La de la VPN es la IP pública asignada por el proveedor del software VPN al estar dentro de esta red virtual la IP se modifica para trabajar en su software. La de TOR cambia para poder hacer el enrutamiento sobre la red onion que no es la misma que la de internet.
+
+Pudiste ver el siguiente video?
+Fuera de la VPN no, en la VPN sí. Entiendo que por el enrutamiento de la VPN tiene acceso a los DNS por habiltiados para la zona geográfica donde está habilitado dicho video o para la zona donde está restringido.
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+No, no es posible localizar la IP.
+
+
+Conexión sin VPN:
+Bajada: 304.32mbps
+Subida: 30.23mbps
+Ping: 11ms
+
+Conexión con VPN: 
+Bajada: 0.93mbps 
+Subida: 8.65mbps
+Ping: 202ms
+
+Conexión TOR: 
+Bajada: 15.98mbps 
+Subida: 0.63mbps
+Ping: 550ms
+
+Las velocidades son diferentes?
+Sí, sucede porque la red tiene limitado el tráfico donde puede comunicarse para encontrar un enrutamiento rápido.
+
+Que significa el valor del ping?
+El valor del ping es la latencia en que tarda en enviarse la solicitud y recibir una respuesta.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+Sí, el ping varía entre las diferentes opciones. Dado que se comunica a través de proveedores diferentes en diferentes partes del mundo lejos de nuestro ordenador.
+
