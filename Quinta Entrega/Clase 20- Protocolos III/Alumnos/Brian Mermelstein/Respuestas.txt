@@ -1,0 +1,36 @@
+opera con vpn
+
+tu dirección IP es 77.111.246.40
+
+País	Estados Unidos
+
+mi ip publica con opera sin vpn
+190.17.97.190
+País	Argentina ciudad bs as
+
+
+al entrar con tor
+185.220.101.174
+ISP 	CIA TRIAD SECURITY LLC
+Geolocalización no disponible
+
+
+Todas las ip publicas son distintas, en opera sin vpn es la de mi red, en opera con vpn es la dirección a la cual me conecto para luego "salir al internet" luego de pasar por mi red privada virtual. Mediante TOR es diferente siempre porque siempre "te conectás a internet" a traves de un equipo diferente (ya que siempre va variando).
+
+
+
+El video solo puede verse con vpn, ya que debe estar prohibido para esta región, la red vpn permite mostrar como ip publica otra ip de tu red (la cual puede ser de muchas personas dif)
+
+Utilizando tor no pudimos geolocalizar nuestra ip, además la misma cambia cada vez que abrimos el navegador
+
+speedtest con VPN 
+223ms   0.94mb bajada --- 10mb de subida
+
+speedtest sin vpn
+3ms   30mb bajada -- 25.51 de subida
+
+tor project
+500ms 1.35mb bajada -- 163mb de subida
+
+El valor de ping (es decir latencia) varía en todos porque  es la cantidad de tiempo de enviarse un paquete dentro de la red, el vpn pasa por una red virtual propia y demora la salida de paqutes, lo mismo la red tor ya que el paquete va de equipo en equipo antes de encontrar la solicitud. Todo esto genera demoras = latencia.
+La velocidad en la red tor es mucho menor que la de un vpn
