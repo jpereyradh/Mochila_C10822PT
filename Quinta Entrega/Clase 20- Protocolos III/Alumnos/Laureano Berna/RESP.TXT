@@ -1,0 +1,19 @@
+1. opera 193.142.146.213 argentina
+  opera vpn 193.142.146.213 estados unidos
+  tor 193.142.146.213 no geolocaliza
+
+  las ip son diferentes debido a que al usar tor o vpn son redes de mayor privacidad que ocultan nuestra verdadera ip
+  sin utilizar vpn no pueedo ver el video debido a que esta bloqueado para mi pais, y al usar una vpn simulo que estoy en otro pasi en el cual si puedo verlo
+  al utilizar tor no pude geolocalizar mi ip
+
+
+2. speedtest
+ opera: 302 mb subida, 299 mb bajada 20ms ping
+ opera vpn 1.8 mb bajada, 18 mb subida 484ms ping
+ tor con tor no pude testear
+
+ las velocidades son diferentes debido a que con vpn estoy conectandome a un servidor lejano a mi lugar de residencia, y con tor
+
+ el ping es el tiempo que tarda en enviarse un paquete en la red
+
+ el valor de ping varia porque al usar vpn tengo que enviar paquetes mucho mas lejos
