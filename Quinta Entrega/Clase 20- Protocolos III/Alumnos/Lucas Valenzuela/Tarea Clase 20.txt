@@ -1,0 +1,12 @@
+VPN 77.111.246.40 ESTADOS UNIDOS 0,88 mbps bajada 10,64 mbps subida
+SIN VPN ... ARGENTINA 46.06 mbps bajada 8.04 mbps subida
+TOR 185.220.100.241 NO ME DEJA GEOLOCALIZAR 2.35 mbps bajada 1.24mbps subida
+
+
+1) Las direcciones IP no son las mismas, la vpn me povee una IP publica distinta, mientras que tor me brinda una IP que no pude rastear
+2) El video no me deja verlo porque no esta disponible para mi zona
+3) No pude localizar mi IP
+
+4) Las velocidades son distintas, yo creo que la VPN se debe a la distancia que tiene que recorrer la informacion desde la IP en USA a mi computadora
+    Y en tor debido a que no hay un proveedor de internet y no existe una DNS es mas lento el proseceso de encontrar el sitio que necesito
+5) El valor ping significa la velocidad con la que se bajan y sube los datos a la red
