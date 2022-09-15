@@ -1,0 +1,28 @@
+
+Sin VPN:
+IP pública: ... (Mi IP)
+Prueba de V.: 310Mbps
+Ping: 3ms
+Geolocalización: Mi ubicación
+
+Con VPN:
+IP Pública: 77.111.246.40 (Distinta)
+Prueba de V.: 1.1Mbps
+Ping: 203ms
+Geolocalización: Estados Unidos
+
+Con TOR:
+IP Pública: 185.220.101.70 (Distinta)
+Prueba de V.: 1.8Mbps
+Ping: 
+Geolocalización: Nada
+
+1)Todas las IP públicas son distintas
+
+2)No, sin VPN no puedo ver el video. En cambio, con VPN activo puedo verlo sin problemas. Esto se debe a que el video no esta disponible para la geolocalización de mi IP, pero sí para la del VPN.
+
+3)No, el navegador TOR no me permite visualizar la geolocalización de la IP que este me ofrece.
+
+4)El ping y la velocidad varian según en donde lo vea. En VPN o TOR es mas alta porque el paquete viaja por varios nodos, lo que provoca que se ralentice el envío.
+
+5) El ping es el valor de la latencia, es decir, la velocidad en la que tarda un paquete en enviarse dentro de la red.
