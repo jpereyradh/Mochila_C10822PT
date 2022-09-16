@@ -1,0 +1,47 @@
+consigna 1:
+Opera IP publica: 181.23.233.97 Argentina
+Opera VPN IP:  77.111.246.40 Esados Unidos
+Tor IP: 185.220.101.8 no me aparece la localización, solo esto: ISP   NFOrce Entertainment B.V.
+
+consigna 2:
+No, no son las mismas ya que se utilizó VPN para que cambie el ip de coneccion, en caso de TOR ni siquiera a aparece el pais donde te estas conectando
+
+consigna 3:
+No puedo ver el video, me dice "Video no disponible en tu pais" y en Tor no lo termina de cargar a la pagina. Una vez activado el VPN puedo visualizar el video, desconozco el idioma.
+Sucede que direccionó mi IP a algun pais donde el video está disponible. (todavia no carga youtube)
+
+consigna 4:
+La IP es 185.220.101.8 pero no pudimos localizarla, no aparece.
+
+consigna 5: Velocidad de Red
+DESCARGA Mbps
+295.83
+ SUBIDA Mbps
+302.52
+
+consigna 6: Opera velocidad de Red:
+ DESCARGA Mbps
+269.37
+ SUBIDA Mbps
+93.22
+
+Opera VPN velocidad de Red:
+ DOWNLOAD Mbps
+1.18
+ UPLOAD Mbps
+7.91
+
+Tor velocidad de Red:
+ Descarga Mbps
+16.38
+Subida Mbps
+0.90
+
+consigna 7:
+Si, las velocidades son diferentes debido al diferente rediccionamiento del IP al usar o no VPN.
+
+consigna 8:
+Significa la latencia de conexion
+
+consigna 9:
+Si varia, porque sin VPN tenes red local por ende un ping menos elevado, caso contrario si tenes activado el VPN.
