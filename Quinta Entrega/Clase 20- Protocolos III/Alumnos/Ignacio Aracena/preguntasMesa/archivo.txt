@@ -1,0 +1,19 @@
+¿Las ip públicas son las mismas? ¿por qué?
+no son las mismas, porque el router asigna una ip privada a cada dispositivo conectado a la red, y el router tiene una ip pública que es la que se ve desde fuera de la red.
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo,
+¿que es lo que sucedió?¿Por qué?
+Sin utilizar la VPN no se puede ver el video, porque la ip pública del router es la que se ve desde fuera de la red, y al activar la VPN se cambia la ip pública del router, por lo que no se puede ver el video.
+
+
+Utilizando Tor ¿pudimos localizar la IP ? 
+utilizando tor no se puede localizar la ip, porque tor es un servicio que permite navegar de forma anónima, y no deja rastro de la ip del usuario.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+// Las velocidades entre tor, opera y chrome son diferentes porque cada navegador tiene su propio motor de renderizado, y cada uno de ellos tiene sus propias características y optimizaciones. Por ejemplo, Chrome tiene un motor de renderizado llamado Blink, que es el que se encarga de renderizar la página web. Opera tiene un motor de renderizado llamado Presto, que es el que se encarga de renderizar la página web. Tor tiene un motor de renderizado llamado Gecko, que es el que se encarga de renderizar la página web. Cada uno de ellos tiene sus propias características y optimizaciones, por lo que cada uno de ellos tiene sus propias velocidades.
+
+¿Que significa el valor del ping?
+// El ping es el tiempo que tarda en enviarse un paquete dentro de la red. Esto se mide en milisegundos y mientras menor sea, mejor. El ping es una medida de la calidad de la conexión.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+// Si, varia, porque depende de la distancia entre el servidor y el cliente. Por ejemplo, si el servidor esta en España y el cliente en Argentina, el ping sera mayor que si el servidor esta en Argentina y el cliente en España.
