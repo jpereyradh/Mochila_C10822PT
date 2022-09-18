@@ -1,0 +1,14 @@
+1) El sistema operativo es una version que emula a windows con el fin de hacer sentir
+a los usuarios de windows mas comodos y familiarizados.
+2)Parece ser que el sistema es open source pero de manera muy limitada, y con 
+licencia para acceder a todo
+3)Los recursos son
+Memoria RAM: 2,9 GiB
+Procesador: Common KVM processor x2
+Graficos: Ilvmpipe (128 bits)
+sistema base: Ubuntu
+Disco: 30,6 GB
+4)Por el buscador del inicio se coloca terminal y se accede.
+5)No me deja, no me aparecen los .exe
+Si, tiene buscaminas.
+
