@@ -1,0 +1,18 @@
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+	Rta ->	Porque los lenguajes usan compiladores o interpretes que traducen el codigo a 
+		lenguaje ensamblador que a su vez varia en funcion de la arquitectura del 
+		procesador y de como lo interpreta el sistema operativo. 
+
+- ¿Qué tipo de máquina virtual es virtualBox?.
+
+	Rta ->	Es una maquina virtual de sistema que permite compartir recursos fisicos de una 
+		ordenador host entre varias maquinas virtuales.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+	Rta ->	No afecta a las demas porque son entornos virtuales aislados.
+
+
