@@ -1,0 +1,41 @@
+
+Clase 20:
+
+Ip publica sin vpn: 190.246.240.34  Argentina
+
+Ip publica con vpn: 77.111.246.40  Estados Unidos
+
+
+Ip publica TOR: 185.243.218.27  no aparece la localizacion
+
+
+1: ¿Las ip públicas son las mismas? ¿por qué?
+
+No son las mismas. la original al activar el vpn cambia la ip y la localizacion. y 
+con tor tambien es distinta pero no te permite ver la localizacion
+
+2: con vpn activada no puedo ver el video. si te deja con la VPn activa, seguro tiene un bloqueo
+para poder verlo en nuestro pais y al activar la vpn ya no detecta que estamos en Argentina.
+
+3: en tor te muestra la ip, pero no donde esta localizada
+
+
+SpeedTest
+
+sin vpn --> Descarga: 110.96   Subida: 27.39  Ping: ms  Idle Latency: 14
+
+con vpn --> Descarga: 1.05  Subida: 8.42   Ping: ms  Idle Latency: 319
+
+Con TOR --> Descarga: 10.88  Subida: 10.53   Ping: ms  Idle Latency: 441
+
+Preguntas: 
+
+1: si son diferentes. con la vpn y tor se conectan a otras redes o servidores que estan en otros paises
+y eso genera el alto ping y navegacion lenta o nula.
+
+2: es lo que tarda mi equipo en ir a destino y volver.
+
+3: con la vpn y tor, estamos usando servidores de otros paises y eso genera un retardo en la conexion y repuesta
+
+
+
