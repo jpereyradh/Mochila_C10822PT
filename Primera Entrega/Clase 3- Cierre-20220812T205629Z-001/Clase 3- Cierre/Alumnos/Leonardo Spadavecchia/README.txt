@@ -1,1 +1,0 @@
-tuve problemas para eliminar dos archivos .txt con el vsc. en ambos casos no me dejaba por borrarlos por un tema de "PERMISOS". intente buscar una solucion en linea pero iba mas alla de mis conocimientos

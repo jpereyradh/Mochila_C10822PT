@@ -1,3 +1,0 @@
-Amd Ryzen 5 3600 (Es el procesador de Matilda)
-Amd a8 9600 (Es el procesador para el hermano mayor)
-intel i3 3230 (Es el procesador de Marcelo para ejecutar solo Office)
