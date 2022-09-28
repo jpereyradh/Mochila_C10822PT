@@ -1,0 +1,7 @@
+Una mayor velocidad de conexión permite enviar y recibir datos más rápidamente, lo que reduce el ping. Por el contrario, una velocidad de conexión más lenta puede dar lugar a un ping alto.
+
+
+- Solamente pudimos visualizar el video con la VPN encendida. Esto es porque el mismo no esta disponible para nuestro país de origen. Lo que sucede, es que la VPN conecta con el servicio de streaming desde una IP remota correspondiente a otra región en la cuál está permitida la visualización del video.
+
+
+El valor del ping varía entre las opciones ya que tenemos un intermediario remoto y esto puede ocasionar que en la ruta haya una pérdida de paquetes.
