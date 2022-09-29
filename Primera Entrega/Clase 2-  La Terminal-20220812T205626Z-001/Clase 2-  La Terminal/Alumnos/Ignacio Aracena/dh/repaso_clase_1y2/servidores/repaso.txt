@@ -1,1 +1,0 @@
-Un servidor, como la misma palabra indica, es un ordenador o máquina informática que está al “servicio” de otras máquinas, ordenadores o personas llamadas clientes y que le suministran a estos, todo tipo de información. A modo de ejemplo, imaginemos que estamos en nuestra casa, y tenemos una despensa.

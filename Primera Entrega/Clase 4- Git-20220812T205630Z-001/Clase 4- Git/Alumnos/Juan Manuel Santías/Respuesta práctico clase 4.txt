@@ -1,9 +1,0 @@
-1) El directorio paso a estar en el repositorio.
-
-2) No se guardó porque falto el paso de "git add ." antes para agregar los cambios al staging area.
-
-3) El comando es correcto, el nombre podría ser un poco más descriptivo.
-
-4) Restablece el archivo y elimina los cambios realizados, en este caso la eliminación de producto_db.js.
-
-5) Como no se cierra la comilla el comando no se finaliza, por lo tanto no se realiza el commit correctamente.
