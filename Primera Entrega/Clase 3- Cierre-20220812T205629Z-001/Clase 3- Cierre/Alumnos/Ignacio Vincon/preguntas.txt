@@ -1,0 +1,12 @@
+1- si, se puede crear en un solo comando:
+	mkdir Accion  Comedia  Infantiles  Romanticas  Terror
+	
+2- si, se puede crear en un solo comando:
+	ouch "Smooth criminal".txt "Diario de una pasion".js "El hexorcista".xls Cars.jpg
+
+3- Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH
+$ mkdir Romanticas/Prueba
+
+4- Ivincon@DESKTOP-JASVUQ4 MINGW64 ~/Documents/DH/Romanticas
+$ mkdir ../Accion/Prueba2
+

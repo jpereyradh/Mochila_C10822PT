@@ -1,0 +1,125 @@
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop
+$ pwd
+/c/Users/leona/Desktop
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop
+$ mkdir dh
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop
+$ cd ./dh
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh
+$ mkdir peliculas
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh
+$ cd peliculas
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ mkdir infantiles accion terror comedia romanticas
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./accion
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/accion
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./infantiles
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/infantiles
+$ touch intenzamente.txt "el juego del miedo".xls "rapido y furioso".pdf titanic.jpg
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/infantiles
+$ ls
+'el juego del miedo.xls'  'rapido y furioso.pdf'
+ intenzamente.txt          titanic.jpg
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/infantiles
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./accion
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/accion
+$ touch "smooth criminal".txt "diario de una pasion".js "el hexorcista".xls cars.jpg
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/accion
+$ ls
+ cars.jpg                  'el hexorcista.xls'
+'diario de una pasion.js'  'smooth criminal.txt'
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/accion
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./terror
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/terror
+$ touch "la dama y el bagavundo".png "yo antes de ti".xls "que paso ayer".pdf "we will rock you".js
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/terror
+$ ls
+'la dama y el bagavundo.png'  'we will rock you.js'
+'que paso ayer.pdf'           'yo antes de ti.xls'
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/terror
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./comedia
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/comedia
+$ touch madagaskar.js "orgullo y prejuicio".txt it.xls "mision imposible".png
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/comedia
+$ ls
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/comedia
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ./romanticas
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ touch pocahontas.jpg annabelle.js "los vengadores".js "la mascara".js
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ ls
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas/romanticas
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh/peliculas
+$ cd ..
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh
+$ ls -R
+.:
+peliculas/
+
+./peliculas:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./peliculas/accion:
+ cars.jpg  'diario de una pasion.js'  'el hexorcista.xls'  'smooth criminal.txt'
+
+./peliculas/comedia:
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./peliculas/infantiles:
+'el juego del miedo.xls'   intenzamente.txt  'rapido y furioso.pdf'   titanic.jpg
+
+./peliculas/romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./peliculas/terror:
+'la dama y el bagavundo.png'  'que paso ayer.pdf'  'we will rock you.js'  'yo antes de ti.xls'
+
+leona@DESKTOP-9UD41U0 MINGW64 ~/Desktop/dh

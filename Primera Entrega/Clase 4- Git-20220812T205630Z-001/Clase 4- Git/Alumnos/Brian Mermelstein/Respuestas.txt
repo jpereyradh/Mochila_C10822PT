@@ -1,0 +1,12 @@
+1) Se ignoró por estar vacio
+2) Al no haber add anterior, los archivos nuevos del tramo 2 no fueron commiteados
+3) No está bien porque guarda TODO el proyecto
+
+4) se restaura el archivo producto_db.js el cual fue eliminado en el paso anterior
+5) no pasa nada por error de sintaxis (falta cerrar comilla)
+
+Brian Mermelstein
+Gonzalo Pena
+Daniel Rizzuti
+Martin Ignacio Sebastiani
+Ignacio Vincon

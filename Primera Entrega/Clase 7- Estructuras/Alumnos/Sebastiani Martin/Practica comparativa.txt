@@ -1,0 +1,3 @@
+Matilda requiere el AMD Ryzen 5 3600
+Marcelo requiere el Intel I3 3230
+El hermano mayor requiere el AMD A8 9600
